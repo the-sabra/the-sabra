@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm omar sabra</h1>
-<h3 align="center">this is the start</h3>
+<h3 align="center">This is the start</h3>
 
 - 🌱 I’m currently learning **Computer Science and android development with java & kotlin**
 
