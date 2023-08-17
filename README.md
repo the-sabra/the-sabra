@@ -29,8 +29,7 @@
 ![Sequelize]
 ![Jest]
 
-<!-- status card -->
-<img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=the-sabra&count_private=true&theme=github_dark&show_icons=true&include_all_commits=true"  width="50%" />
+
 
 
 
