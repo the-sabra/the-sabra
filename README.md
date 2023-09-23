@@ -28,6 +28,8 @@
 ![Prisma]
 ![Sequelize]
 ![Jest]
+![GraphQL]
+![typeGraghQl]
 
 
 
@@ -49,3 +51,5 @@
 [JWT]: https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens
 [MongoDb]: https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white
 [Sequelize]: https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=black
+[typeGraghQl]: https://img.shields.io/badge/-TypeGraphQL-%23C04392?style=for-the-badge
+[GraphQL]: https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white
