@@ -25,12 +25,13 @@
 ![JWT]
 ![Mysql]
 ![MongoDb]
+![redis]
 ![Prisma]
 ![Sequelize]
 ![Jest]
 ![GraphQL]
 ![typeGraghQl]
-
+![docker]
 
 
 
@@ -53,3 +54,5 @@
 [Sequelize]: https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=black
 [typeGraghQl]: https://img.shields.io/badge/-TypeGraphQL-%23C04392?style=for-the-badge
 [GraphQL]: https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white
+[docker]: https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white
+[redis]: https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white
