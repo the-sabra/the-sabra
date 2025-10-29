@@ -50,4 +50,3 @@
 
 ###
 <img src="https://raw.githubusercontent.com/the-sabra/the-sabra/output/snake.svg" alt="Snake animation" />
-###
